@@ -1,0 +1,29 @@
+# env
+.env
+*.env.local
+
+# logs
+*.log
+npm-debug.log*
+
+# node
+node_modules/
+dist/
+
+# go
+*.exe
+*.test
+tmp/
+
+# editor
+.vscode/
+.idea/
+*.swp
+
+# os
+.DS_Store
+Thumbs.db
+
+# uploads
+backend/uploads/*
+!backend/uploads/.gitkeep
