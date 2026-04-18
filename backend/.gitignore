@@ -1,0 +1,7 @@
+.env
+*.exe
+uploads/*
+!uploads/.gitkeep
+tmp/
+.idea/
+.vscode/
